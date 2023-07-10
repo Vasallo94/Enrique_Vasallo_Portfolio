@@ -27,6 +27,7 @@ Mi nombre es Enrique Vasallo y soy un físico con experiencia en análisis y cie
 
 ## Contacto
 
-Puedes contactarme a través de mi [perfil de LinkedIn](https://www.linkedin.com/in/enrique-vasallo/) o por <quiquevasallo@gmail.com>.
+Puedes contactarme a través de mi [perfil de LinkedIn](https://www.linkedin.com/in/enrique-vasallo/) o por e-mail a <quiquevasallo@gmail.com>.
 
 
+ 
